@@ -1,6 +1,5 @@
 ### **Take-Home Assignment: Task Management API with JavaScript and SQL**
 
-#### **Objective**  
 Build a **RESTful API** using **Node.js** and **SQL** to manage tasks. This assignment will assess your ability to integrate a relational database, write clean and maintainable JavaScript code, and document your solution.
 
 ---

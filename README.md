@@ -1,7 +1,3 @@
-Let me provide a more detailed version of the take-home assignment, with specific instructions and clear deliverables:
-
----
-
 ### **Take-Home Assignment: Task Management API with JavaScript and SQL**
 
 #### **Objective**  
@@ -109,7 +105,7 @@ Your submission should include the following:
 2. Include a `README.md` file with:
    - Setup instructions (how to install dependencies, set up the database, and run the project).
    - API documentation with examples of requests and responses.
-3. Deadline: [Insert deadline, e.g., 3-5 days from assignment].
+3. Deadline: [ within 3-5 days from assignment].
 
 ---
 
@@ -119,7 +115,3 @@ Your submission should include the following:
 3. **Database Integration**: Is the database properly set up and integrated?  
 4. **Documentation**: Are the setup instructions and API details clear and complete?  
 5. **Bonus Features**: Any additional enhancements beyond the core requirements.
-
----
-
-Let me know if this meets your expectations or if you'd like further refinements!
